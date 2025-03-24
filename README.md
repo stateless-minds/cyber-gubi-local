@@ -10,5 +10,5 @@
 
 + `export ENC_PASSWORD=your_password_here`
 + `unzip ipfs.zip`
-+ `go run main.go`
 + `./ipfs daemon --enable-pubsub-experiment`
++ `./main`
