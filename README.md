@@ -5,6 +5,12 @@
 + Linux
 + go
 
+## Features
+
++ One user per device
++ Portable keys, when you change device simply copy the generated encrypted_aes_key.bin to your new device
++ For businesses - you can add as many associates as you want on the same device
+
 
 ## Instructions
 
